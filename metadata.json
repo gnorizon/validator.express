@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.3",
-  "latestBuild": 5,
-  "latestReleaseTag": "v1.0.3",
-  "apkFileName": "courier_validator-v1.0.3.apk",
-  "sha256": "d538c9b51e2b0728850ba1a87b890eeb7e960f263351c974a3a471c1b9529a3a",
-  "releasedAt": "2026-09-16T15:40:20Z",
-  "changelog": "Release v1.0.3 for Courier Validator with offline-first scanning, thermal printing, weak network resilience, OTA updater, and kiosk mode."
+  "latestVersion": "1.0.5",
+  "latestBuild": 7,
+  "latestReleaseTag": "v1.0.5",
+  "apkFileName": "courier_validator-v1.0.5.apk",
+  "sha256": "465f661b958ae97737fb596c59e9b408aef22a31e993967acdc1b4ea6bd0f731",
+  "releasedAt": "2026-09-17T09:35:48Z",
+  "changelog": "Release v1.0.5 for Courier Validator with offline-first scanning, thermal printing, weak network resilience, OTA updater, and kiosk mode."
 }
